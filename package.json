@@ -16,7 +16,7 @@
     "yarn": "~1.22.5"
   },
   "dependencies": {
-    "@octokit/rest": "18.6.3",
+    "@octokit/rest": "18.12.0",
     "command-line-args": "5.2.0"
   },
   "devDependencies": {
